@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#the controller ip should be changed in cntr_server to the corresponding IP
 #defining the number of times to lunch the command
 run='1 2 3'
 #number of swithces
